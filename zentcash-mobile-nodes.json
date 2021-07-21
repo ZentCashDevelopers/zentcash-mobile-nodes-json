@@ -20,6 +20,7 @@
       "url": "seedpro2.zent.cash",
       "port": 21698,
       "ssl": false,
+      "cache":false,
       "fee":{
         "address":"",
         "amount":0
@@ -34,6 +35,7 @@
       "url": "seedpro2.zent.cash",
       "port": 443,
       "ssl": true,
+      "cache":false,
       "fee":{
         "address":"",
         "amount":0
@@ -48,6 +50,7 @@
       "url": "seedpro4.zent.cash",
       "port": 21698,
       "ssl": false,
+      "cache":false,
       "fee":{
         "address":"",
         "amount":0
@@ -62,6 +65,7 @@
       "url": "seedpro5.zent.cash",
       "port": 21698,
       "ssl": false,
+      "cache":false,
       "fee":{
         "address":"",
         "amount":0
@@ -76,6 +80,7 @@
       "url": "superblockchain.con-ip.com",
       "port": 21698,
       "ssl": false,
+      "cache":false,
       "fee":{
         "address":"Ze4tc4mTG137cG3i5oa8yLAW4iZvPoRVsEx5dGRhiEcoEWEVCBvc4hB6fcDyqE2FoWPpLWnGGswq19yqsFi1bhDd1XnDmtD6T",
         "amount":100
