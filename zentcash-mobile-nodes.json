@@ -1,94 +1,76 @@
 {
-  "nodes": [
-    {
-      "name": "SeedPRO1",
-      "url": "seedpro1.zent.cash",
-      "port": 21698,
-      "ssl": false,
-      "cache":false,
-      "fee":{
-        "address":"",
-        "amount":0
-      },
-      "availability":100,
-      "online":true,
-      "version":"1.14.7",
-      "timestamp":1626819513
-    },
-    {
-      "name": "SeedPRO2",
-      "url": "seedpro2.zent.cash",
-      "port": 21698,
-      "ssl": false,
-      "cache":false,
-      "fee":{
-        "address":"",
-        "amount":0
-      },
-      "availability":100,
-      "online":true,
-      "version":"1.14.7",
-      "timestamp":1626819513
-    },
-    {
-      "name": "SeedPRO2 - SSL",
-      "url": "seedpro2.zent.cash",
-      "port": 443,
-      "ssl": true,
-      "cache":false,
-      "fee":{
-        "address":"",
-        "amount":0
-      },
-      "availability":100,
-      "online":true,
-      "version":"1.14.7",
-      "timestamp":1626819513
-    },
-    {
-      "name": "SeedPRO4",
-      "url": "seedpro4.zent.cash",
-      "port": 21698,
-      "ssl": false,
-      "cache":false,
-      "fee":{
-        "address":"",
-        "amount":0
-      },
-      "availability":100,
-      "online":true,
-      "version":"1.14.7",
-      "timestamp":1626819513
-    },
-    {
-      "name": "SeedPRO5",
-      "url": "seedpro5.zent.cash",
-      "port": 21698,
-      "ssl": false,
-      "cache":false,
-      "fee":{
-        "address":"",
-        "amount":0
-      },
-      "availability":100,
-      "online":true,
-      "version":"1.14.7",
-      "timestamp":1626819513
-    },
-    {
-      "name": "SuperBlockchain Pool",
-      "url": "superblockchain.con-ip.com",
-      "port": 21698,
-      "ssl": false,
-      "cache":false,
-      "fee":{
-        "address":"Ze4tc4mTG137cG3i5oa8yLAW4iZvPoRVsEx5dGRhiEcoEWEVCBvc4hB6fcDyqE2FoWPpLWnGGswq19yqsFi1bhDd1XnDmtD6T",
-        "amount":100
-      },
-      "availability":100,
-      "online":true,
-      "version":"1.14.7",
-      "timestamp":1626819513
-    }
+  "nodes":[
+        {
+          "name": "SeedPRO1",
+          "url": "seedpro1.zent.cash",
+          "port": 21698,
+          "ssl": false,
+          "cache":false,
+          "fee":0,
+          "availability":100,
+          "online":true,
+          "version":"1.14.7",
+          "timestamp":1626819513
+        },
+        {
+          "name": "SeedPRO2",
+          "url": "seedpro2.zent.cash",
+          "port": 21698,
+          "ssl": false,
+          "cache":false,
+          "fee":0,
+          "availability":100,
+          "online":true,
+          "version":"1.14.7",
+          "timestamp":1626819513
+        },
+        {
+          "name": "SeedPRO2 - SSL",
+          "url": "seedpro2.zent.cash",
+          "port": 443,
+          "ssl": true,
+          "cache":false,
+          "fee":0,
+          "availability":100,
+          "online":true,
+          "version":"1.14.7",
+          "timestamp":1626819513
+        },
+        {
+          "name": "SeedPRO4",
+          "url": "seedpro4.zent.cash",
+          "port": 21698,
+          "ssl": false,
+          "cache":false,
+          "fee":0,
+          "availability":100,
+          "online":true,
+          "version":"1.14.7",
+          "timestamp":1626819513
+        },
+        {
+          "name": "SeedPRO5",
+          "url": "seedpro5.zent.cash",
+          "port": 21698,
+          "ssl": false,
+          "cache":false,
+          "fee":0,
+          "availability":100,
+          "online":true,
+          "version":"1.14.7",
+          "timestamp":1626819513
+        },
+        {
+          "name": "SuperBlockchain Pool",
+          "url": "superblockchain.con-ip.com",
+          "port": 21698,
+          "ssl": false,
+          "cache":false,
+          "fee":100,
+          "availability":100,
+          "online":true,
+          "version":"1.14.7",
+          "timestamp":1626819513
+        }
   ]
 }
