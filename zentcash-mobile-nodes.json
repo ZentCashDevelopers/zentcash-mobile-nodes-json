@@ -2,19 +2,19 @@
   "nodes":[
         {
           "name": "SeedPRO1",
-          "url": "seedpro1.zent.cash",
+          "url": "95.216.169.11",
           "port": 21698,
           "ssl": false,
           "cache":false,
           "fee":0,
           "availability":100,
           "online":true,
-          "version":"1.14.7",
+          "version":"1.26.3",
           "timestamp":1626819513
         },
         {
           "name": "SeedPRO2",
-          "url": "seedpro2.zent.cash",
+          "url": "95.216.191.56",
           "port": 21698,
           "ssl": false,
           "cache":false,
@@ -24,40 +24,17 @@
           "version":"1.14.7",
           "timestamp":1626819513
         },
+ 
         {
-          "name": "SeedPRO2 - SSL",
-          "url": "seedpro2.zent.cash",
-          "port": 443,
-          "ssl": true,
-          "cache":false,
-          "fee":0,
-          "availability":100,
-          "online":true,
-          "version":"1.14.7",
-          "timestamp":1626819513
-        },
-        {
-          "name": "SeedPRO4",
-          "url": "seedpro4.zent.cash",
+          "name": "SeedPRO3",
+          "url": "78.47.228.221",
           "port": 21698,
           "ssl": false,
           "cache":false,
           "fee":0,
           "availability":100,
           "online":true,
-          "version":"1.14.7",
-          "timestamp":1626819513
-        },
-        {
-          "name": "SeedPRO5",
-          "url": "seedpro5.zent.cash",
-          "port": 21698,
-          "ssl": false,
-          "cache":false,
-          "fee":0,
-          "availability":100,
-          "online":true,
-          "version":"1.14.7",
+          "version":"1.26.3",
           "timestamp":1626819513
         },
         {
@@ -69,7 +46,7 @@
           "fee":100,
           "availability":100,
           "online":true,
-          "version":"1.14.7",
+          "version":"1.26.3",
           "timestamp":1626819513
         }
   ]
