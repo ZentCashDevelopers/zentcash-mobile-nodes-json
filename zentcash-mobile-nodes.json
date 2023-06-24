@@ -40,7 +40,7 @@
         {
           "name": "SuperBlockchain Pool",
           "url": "superblockchain.con-ip.com",
-          "port": 21698,
+          "port": 30020,
           "ssl": false,
           "cache":false,
           "fee":100,
