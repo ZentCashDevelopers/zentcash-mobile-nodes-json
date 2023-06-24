@@ -7,9 +7,9 @@
           "ssl": false,
           "cache":false,
           "fee":100,
-          "availability":100,
-          "online":true,
-          "version":"1.26.3",
+          "availability":0,
+          "online":false,
+          "version":"1.26.4",
           "timestamp":1626819513
         },
         {
@@ -19,9 +19,9 @@
           "ssl": false,
           "cache":false,
           "fee":100,
-          "availability":100,
-          "online":true,
-          "version":"1.26.3",
+          "availability":0,
+          "online":false,
+          "version":"1.26.4",
           "timestamp":1626819513
         },
  
@@ -32,9 +32,9 @@
           "ssl": false,
           "cache":false,
           "fee":100,
-          "availability":100,
-          "online":true,
-          "version":"1.26.3",
+          "availability":0,
+          "online":false,
+          "version":"1.26.4",
           "timestamp":1626819513
         },
         {
@@ -46,7 +46,7 @@
           "fee":100,
           "availability":100,
           "online":true,
-          "version":"1.26.3",
+          "version":"1.26.4",
           "timestamp":1626819513
         }
   ]
